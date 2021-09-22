@@ -9,16 +9,24 @@
 
 Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento financeiro através de um **dashboard tático**. Sendo este dashbord dividido em duas páginas. A **primeira página exibirá um overview** de toda a área financeira enquado a **segunda página apresentará uma análise de cenários**.
 
- ### Principais métricas a serem disponibilizadas
+ ### Principais métricas a serem disponibilizadas (overview)
 
-
-    • ;
-    • ; 
-    • ;
-    • ;
-    • .
+    • Receita ;
+    • Lucro ; 
+    • Custos ;
+    • Despesas ;
     
-   
+ ### Análise de cenário
+ 
+ A análise de cenário buscará responder as seguintes perguntas:
+ 
+> 1- Qual o impacto financeiro caso ocorra uma variação no custo da produção? 
+> Quanto isso impacta na minha receita?
+
+  
+> 2- Qual o impacto financeiro caso ocorra uma variação nos impostos? O que mudaria?
+
+ 
 ## Base de dados usadas:    
 
 O departamento de financeiro disponibilizou 4 bases de dados no formato SQL, sendo essas bases:
