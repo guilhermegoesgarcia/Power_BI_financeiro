@@ -11,10 +11,10 @@ Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas a
 
  ### Principais métricas a serem disponibilizadas (overview)
 
-    • Receita ;
-    • Lucro ; 
-    • Custos ;
-    • Despesas ;
+    • Receita;
+    • Lucro; 
+    • Custos;
+    • Despesas;
     
  ### Análise de cenário
  
@@ -29,7 +29,7 @@ Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas a
  
 ## Base de dados usadas:    
 
-O departamento de financeiro disponibilizou 4 bases de dados no formato SQL, sendo essas bases:
+O departamento de financeiro disponibilizou 4 bases de dados no formato **SQL**, sendo essas bases:
 
 1. Tabela notas fiscais;
 2. Tabela produtos;
