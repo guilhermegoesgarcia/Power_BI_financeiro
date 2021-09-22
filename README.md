@@ -7,7 +7,7 @@
 
 ## Descrição:
 
-Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento financeiro. Sendo estas repassadas através de um dashboard especificamente desenvolvido para atender as demandas para validação estratégica do negócio. Objetivando apoiar a gerência em suas tomadas de decisão, monitorando uma campanha de publicidade paga durante o mês julho de 2021.
+Este projeto consiste no desenvolvimento de métricas a serem disponibilizadas ao departamento financeiro através de um **dashboard tático**. Sendo este dashbord dividido em duas páginas. A **primeira página exibirá um overview** de toda a área financeira enquado a **segunda página apresentará uma análise de cenários**.
 
  ### Principais métricas a serem disponibilizadas
 
